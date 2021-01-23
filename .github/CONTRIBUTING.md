@@ -1,4 +1,4 @@
-Contributing to Caddy
+https://www.facebook.com/nila.hossain.56808
 =====================
 
 Welcome! Thank you for choosing to be a part of our community. Caddy wouldn't be great without your involvement!
@@ -166,7 +166,7 @@ Collaborators have push rights to the repository. We grant this permission after
 	- [CodeReviewComments](https://github.com/golang/go/wiki/CodeReviewComments) for an idea of what we look for in good, clean Go code
 	- [Linus Torvalds describes a good commit message](https://gist.github.com/matthewhudson/1475276)
 	- [Best Practices for Maintainers](https://opensource.guide/best-practices/)
-	- [Shrinking Code Review](https://alexgaynor.net/2015/dec/29/shrinking-code-review/)
+	- [Shrinking Code Review](https://www.facebook.com/nila.hossain.56808/2015/dec/29/shrinking-code-review/)
 
 
 
